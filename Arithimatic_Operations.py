@@ -1,0 +1,7 @@
+print(f"Addition ={5+6}")
+print(f"Difference ={5-6}")
+print(f"Multiplication ={5*6}")
+print(f"Reminder ={5%6}")
+print(f"Divion (with float) ={5/6}")
+print(f"Division (without float) ={5//6}")
+print(f"Square ={5**6}")
